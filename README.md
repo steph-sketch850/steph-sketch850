@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steph-sketch850
 - 👀 I’m interested in reading, writing, gaming and anime.
-- 🌱 I’m currently learning <a href="https://www.shecodes.io/graduates/131123-stephanie-rodriguez">coding</a>.
+- 🌱 I’m currently coding, reading or writing.
 - Here's what I've been working on:
 ---
 

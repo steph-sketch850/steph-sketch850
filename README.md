@@ -16,7 +16,7 @@ View my coding bootcamp projects: [SheCodes Profile](https://www.shecodes.io/gra
 - Applied responsive design principles to optimize the experience for both desktop and mobile users.
 
 **Dictionary App** (React.js)  
-- Created a dynamic dictionary app using React.js that provides word definitions, synonyms, and examples.  
+- Created a dynamic dictionary app using React.js that provides word definitions, pictures, and examples.  
 - Integrated third-party APIs to fetch and display real-time language data.  
 - Implemented responsive design for mobile and desktop views, enhancing user experience.
 

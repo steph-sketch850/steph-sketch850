@@ -3,7 +3,7 @@
 - 🌱 Here's what I've been working on:
 ---
 
-View my coding bootcamp projects: [SheCodes Profile](https://www.shecodes.io/graduates/131123-stephanie-rodriguez)  
+View my coding projects: [SheCodes Profile](https://www.shecodes.io/graduates/131123-stephanie-rodriguez)  
 View my LinkedIn profile <a href="https://www.linkedin.com/in/stephanie-rodriguez-mr">here</a>
 
 ---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steph.
-- 👀 I’m interested in reading, writing, gaming and anime.
+- 👀 I’m interested in historical and non-fiction literature.
 - 🌱 Here's what I've been working on:
 ---
 
